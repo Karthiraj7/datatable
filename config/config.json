@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "mui-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/mui/MuiWebPart.js",
+          "manifest": "./src/webparts/mui/MuiWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MuiWebPartStrings": "lib/webparts/mui/loc/{locale}.js"
+  }
+}
