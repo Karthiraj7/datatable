@@ -40,7 +40,6 @@ Permissions: Ensure the user has appropriate permissions (edit, contribute) to p
 Performance: Optimize data fetching and rendering to ensure a smooth user experience, especially with large datasets.
 User Interface: Design an intuitive user interface with clear feedback for actions like adding, deleting, and rearranging items.
 
-[picture of the solution in action, if possible]
 
 ## Used SharePoint Framework Version
 
